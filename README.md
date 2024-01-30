@@ -1,3 +1,4 @@
+discord: kratos5151
 # Discros-mass-reporter-
 Discord tool
 
